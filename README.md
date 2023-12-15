@@ -64,11 +64,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-* [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
+- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
 
 - [x] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
-* [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
