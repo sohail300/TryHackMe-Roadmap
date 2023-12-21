@@ -1,19 +1,5 @@
 # TryHackMe Road Map
 ---
-
-<br/>
-
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
-
-All the rooms mentioned here are absolute free. ENJOY!!
-
-## Maintainer
-> ***This repository is maintained by [Al Arafat Tanin | rng70](https://github.com/rng70/). For any suggestion feel free to reach [me.](https://github.com/rng70/)*** 
-
-<br/>
-
-## Table of Contents
-
 </aside>
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
@@ -220,9 +206,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-* [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [x] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-* [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [x] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
 * [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
