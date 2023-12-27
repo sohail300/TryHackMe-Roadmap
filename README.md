@@ -128,7 +128,7 @@
 
 ---
 
-* [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [x] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
 * [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
@@ -136,13 +136,11 @@
 
 * [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
-* [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
+- [x] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
 * [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 * [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
-
-* [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
 
