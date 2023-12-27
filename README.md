@@ -50,7 +50,7 @@
 
 - [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
+- [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch) 
 
 - [x] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
@@ -59,8 +59,6 @@
 ## Linux Fundamentals
 
 ---
-
-* [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
 * [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
