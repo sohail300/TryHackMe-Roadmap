@@ -146,9 +146,9 @@
 
 ---
 
-* [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-* [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [x] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 * [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
