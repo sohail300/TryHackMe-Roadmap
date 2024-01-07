@@ -150,7 +150,7 @@
 
 - [x] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-* [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [x] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
 * [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
